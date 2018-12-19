@@ -6,6 +6,8 @@ object WordCount {
 
   def main(args: Array[String]): Unit = {
 
+    //spark实现wordcount
+
     val inpath = "D:\\test\\spark\\000.txt"
     val outpath = "D:\\test\\spark\\out"
 
